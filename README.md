@@ -1,2 +1,1 @@
-# Atluri-Vinod-Credit_Card_Approval_Prediction
-A Machine Learning-based web application that predicts credit card approval using applicant information. Built with Python, Flask, Scikit-learn, XGBoost, HTML, and CSS.
+https://drive.google.com/file/d/13Yr0asj8gXFI1oQTFWWo557wJlna9s2x/view?usp=drive_link
