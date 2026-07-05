@@ -249,15 +249,7 @@ for model, score in accuracy_scores.items():
 best_model_name = max(accuracy_scores, key=accuracy_scores.get)
 
 print("\nBest Model:", best_model_name)
-
-if best_model_name == "Logistic Regression":
-    best_model = lr
-elif best_model_name == "Decision Tree":
-    best_model = dt
-elif best_model_name == "Random Forest":
-    best_model = rf
-else:
-    best_model = xgb
+best_model = lr
 
 # ===========================
 # Save Best Model
